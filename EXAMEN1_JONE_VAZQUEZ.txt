@@ -1,0 +1,13 @@
+1)Código
+
+2)EmpleadoDAO.java y IEEmpleado.java (la intefaz del anterior). Deben interceptarse todos los métodos de estas clases.
+
+3)El interceptor after o after returning para que una vez se haya ejecutado el método, se actualice en la BBDD
+
+4)No es necesario añadir el main ni la interfaz del aspecto.
+
+5)Código
+
+6)Sí, hay que añadir las dependencias necesarias para trabajar con spring además de las requeridas por los plugins en caso de usarse alguno.
+
+7)https://github.com/codeleosaurus/examen1.git
